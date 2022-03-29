@@ -1,0 +1,18 @@
+h1 {
+    background-color: green;
+    color: white;
+}
+
+p {
+    font-style: italic;
+}
+
+ul {
+    background-color: red;
+    color: white;
+}
+
+ol {
+    background-color: green;
+    color: white;
+}
